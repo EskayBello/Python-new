@@ -1,2 +1,2 @@
 name = "Moses"
-print(name)
+print(f"{name} loves Kofi")
